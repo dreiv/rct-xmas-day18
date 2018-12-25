@@ -119,5 +119,5 @@ export function ListError() {
 }
 
 export function ListFallback() {
-  return <span>Looing for Pokemon...</span>;
+  return <span>Looking for Pokemons...</span>;
 }
